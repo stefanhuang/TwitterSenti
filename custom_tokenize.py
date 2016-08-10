@@ -1,5 +1,6 @@
 # Customised NLPK casual tokenizer for better coverage on emoticon
 # add support for Japanese style Emoticons
+# edited by Haiming Zhao
 
 # coding: utf-8
 #
